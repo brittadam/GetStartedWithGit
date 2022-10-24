@@ -3,3 +3,9 @@ function doSomething(){
 }
 
 doSomething();
+
+function doSomethingElse(){
+    console.log("ok");
+}
+
+doSomethingElse();
